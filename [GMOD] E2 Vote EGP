@@ -1,0 +1,7 @@
+@name EGP!
+@inputs EGP:wirelink
+
+EGP:egpRoundedBox(1, vec2(230,100), vec2(650,650))
+EGP:egpColor(1, vec(250,0,0))
+EGP:egpText(2, "Your Text Here", vec2(60,200))
+
