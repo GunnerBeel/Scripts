@@ -1,0 +1,13 @@
+@name FBI Hud
+@inputs EGP:wirelink
+
+EGP:egpBox(1, vec2(250,250), vec2(300,300))
+EGP:egpColor(1, vec(0,0,250)) 
+EGP:egpText(2, "FBI HUD Connected.", vec2(210,100))
+EGP:egpText(3, "A/V Connected.", vec2(210,200))
+EGP:egpBox(4, vec2(150,200), vec2(50,50))
+EGP:egpColor(4, vec(0,250,0))
+EGP:egpText(5, "Connection: g4h46b5", vec2(210,50))
+EGP:egpText(6, "E2 Local Connection...", vec2(210,150))
+EGP:egpText(7, "E2 No. E2n578", vec2(210,165)) 
+EGP:egpText(8, "GTech (c) 2014", vec2(210,178))
